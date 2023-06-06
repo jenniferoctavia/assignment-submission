@@ -1,3 +1,6 @@
+-- Jennifer Hana Octavia - Day 2 SQL Assignment 
+-- Before importing this database, please run this following command: 
+-- CREATE DATABASE simple_to_do_list;
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
